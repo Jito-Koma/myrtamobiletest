@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "284684055453",
+    "project_id": "stg-myrta",
+    "storage_bucket": "stg-myrta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284684055453:android:bcfdecba6729b130437574",
+        "android_client_info": {
+          "package_name": "ae.rta.dev.myrta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVbwr7F1Z6MSMw-EO-t8KOye3ZwDugE1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284684055453:android:488ebb83f2ab2df0437574",
+        "android_client_info": {
+          "package_name": "ae.rta.dev.myrta.developerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVbwr7F1Z6MSMw-EO-t8KOye3ZwDugE1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284684055453:android:62bae7336ee369e7437574",
+        "android_client_info": {
+          "package_name": "ae.rta.stg.myrta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVbwr7F1Z6MSMw-EO-t8KOye3ZwDugE1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
