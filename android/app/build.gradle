@@ -59,7 +59,7 @@ android {
     }
     namespace "com.mendix.nativetemplate"
     defaultConfig {
-        applicationId "ae.rta.dev.myrta"
+        applicationId "com.mendix.nativetemplate"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         missingDimensionStrategy "react-native-camera", "general"

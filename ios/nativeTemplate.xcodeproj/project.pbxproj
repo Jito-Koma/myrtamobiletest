@@ -45,18 +45,6 @@
 		EB59215B23BFA1F5001D6155 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EB59215A23BFA1F5001D6155 /* main.m */; };
 		EB59215C23BFA1F5001D6155 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EB59215A23BFA1F5001D6155 /* main.m */; };
 		ED297163215061F000B7C4FE /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED297162215061F000B7C4FE /* JavaScriptCore.framework */; };
-		6FCD3EE93CBE47438D7B52C5 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0CC05D827B6A4F12AD02BF0F /* GoogleService-Info.plist */; };
-		73F909CEA35144D7BCD2F655 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0CC05D827B6A4F12AD02BF0F /* GoogleService-Info.plist */; };
-		583B9C6DE8884754A1417FCB /* RTAOffice-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3429ED6104FC48508E317082 /* RTAOffice-Bold.ttf */; };
-		224258F0CB474C829BC530CA /* RTAOffice-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3429ED6104FC48508E317082 /* RTAOffice-Bold.ttf */; };
-		112F45AC01C1445AA337AEDA /* RTAOffice-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 60359555D47C4205A4CFE1F7 /* RTAOffice-Regular.ttf */; };
-		E65FA716A74F4D82960E00AA /* RTAOffice-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 60359555D47C4205A4CFE1F7 /* RTAOffice-Regular.ttf */; };
-		9DD97CF430614B1088892FA0 /* RTAOfficeLight-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 12C031600F74455CA1A9D2B3 /* RTAOfficeLight-Bold.ttf */; };
-		134BAE9AC2E14F96BAA94E83 /* RTAOfficeLight-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 12C031600F74455CA1A9D2B3 /* RTAOfficeLight-Bold.ttf */; };
-		095D5361838942B2B03B8AC3 /* RTAOfficeLight-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5CD9F2F64A7442D4912922FE /* RTAOfficeLight-Regular.ttf */; };
-		275B5533A9BD4F55832D7300 /* RTAOfficeLight-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5CD9F2F64A7442D4912922FE /* RTAOfficeLight-Regular.ttf */; };
-		CD3DFA2A250C49AFB36330B3 /* native_dependencies.json in Resources */ = {isa = PBXBuildFile; fileRef = 4C153887AB3941ECB138E04F /* native_dependencies.json */; };
-		B21BDCD667284F23906652D5 /* native_dependencies.json in Resources */ = {isa = PBXBuildFile; fileRef = 4C153887AB3941ECB138E04F /* native_dependencies.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -112,12 +100,6 @@
 		EBC80A6022DF4205007E5F3D /* config.debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = config.debug.xcconfig; sourceTree = "<group>"; };
 		EBC80A6122DF42DF007E5F3D /* config.release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = config.release.xcconfig; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		0CC05D827B6A4F12AD02BF0F /* GoogleService-Info.plist */ = {isa = PBXFileReference; name = "GoogleService-Info.plist"; path = "GoogleService-Info.plist"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = text.plist.xml; explicitFileType = undefined; includeInIndex = 0; };
-		3429ED6104FC48508E317082 /* RTAOffice-Bold.ttf */ = {isa = PBXFileReference; name = "RTAOffice-Bold.ttf"; path = "RTAOffice-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		60359555D47C4205A4CFE1F7 /* RTAOffice-Regular.ttf */ = {isa = PBXFileReference; name = "RTAOffice-Regular.ttf"; path = "RTAOffice-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		12C031600F74455CA1A9D2B3 /* RTAOfficeLight-Bold.ttf */ = {isa = PBXFileReference; name = "RTAOfficeLight-Bold.ttf"; path = "RTAOfficeLight-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		5CD9F2F64A7442D4912922FE /* RTAOfficeLight-Regular.ttf */ = {isa = PBXFileReference; name = "RTAOfficeLight-Regular.ttf"; path = "RTAOfficeLight-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		4C153887AB3941ECB138E04F /* native_dependencies.json */ = {isa = PBXFileReference; name = "native_dependencies.json"; path = "native_dependencies.json"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,8 +145,6 @@
 				1AAE158823C5FEFC00F855F4 /* SwiftInterop.swift */,
 				2C887FD924B88A0E0003DC53 /* LaunchScreen.storyboard */,
 				2C005A7823D5B1E200003E29 /* nativeTemplate.entitlements */,
-				0CC05D827B6A4F12AD02BF0F /* GoogleService-Info.plist */,
-				4C153887AB3941ECB138E04F /* native_dependencies.json */,
 			);
 			name = NativeTemplate;
 			sourceTree = "<group>";
@@ -281,10 +261,6 @@
 			isa = PBXGroup;
 			children = (
 				EB55620B22E0755000E19C26 /* glyphicons-halflings-regular.ttf */,
-				3429ED6104FC48508E317082 /* RTAOffice-Bold.ttf */,
-				60359555D47C4205A4CFE1F7 /* RTAOffice-Regular.ttf */,
-				12C031600F74455CA1A9D2B3 /* RTAOfficeLight-Bold.ttf */,
-				5CD9F2F64A7442D4912922FE /* RTAOfficeLight-Regular.ttf */,
 			);
 			path = Fonts;
 			sourceTree = "<group>";
@@ -396,12 +372,6 @@
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				EB55620C22E0755000E19C26 /* glyphicons-halflings-regular.ttf in Resources */,
 				1A0B3AF323990C2400388BF7 /* config.xcconfig in Resources */,
-				6FCD3EE93CBE47438D7B52C5 /* GoogleService-Info.plist in Resources */,
-				583B9C6DE8884754A1417FCB /* RTAOffice-Bold.ttf in Resources */,
-				112F45AC01C1445AA337AEDA /* RTAOffice-Regular.ttf in Resources */,
-				9DD97CF430614B1088892FA0 /* RTAOfficeLight-Bold.ttf in Resources */,
-				095D5361838942B2B03B8AC3 /* RTAOfficeLight-Regular.ttf in Resources */,
-				CD3DFA2A250C49AFB36330B3 /* native_dependencies.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -417,12 +387,6 @@
 				1A0B3AF12399095C00388BF7 /* config.xcconfig in Resources */,
 				1A0B3AEA2398185600388BF7 /* config.debug.xcconfig in Resources */,
 				1A0B3A9C2397DA2300388BF7 /* LaunchApp.storyboard in Resources */,
-				73F909CEA35144D7BCD2F655 /* GoogleService-Info.plist in Resources */,
-				224258F0CB474C829BC530CA /* RTAOffice-Bold.ttf in Resources */,
-				E65FA716A74F4D82960E00AA /* RTAOffice-Regular.ttf in Resources */,
-				134BAE9AC2E14F96BAA94E83 /* RTAOfficeLight-Bold.ttf in Resources */,
-				275B5533A9BD4F55832D7300 /* RTAOfficeLight-Regular.ttf in Resources */,
-				B21BDCD667284F23906652D5 /* native_dependencies.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -763,7 +727,7 @@
 				SWIFT_OBJC_BRIDGING_HEADER = "nativeTemplate-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -842,7 +806,7 @@
 				SWIFT_INCLUDE_PATHS = "$(inherited) ${PROJECT_DIR} ${SRCROOT}/../node_modules/@mendix/native/ios";
 				SWIFT_OBJC_BRIDGING_HEADER = "nativeTemplate-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
@@ -895,7 +859,7 @@
 				SWIFT_OBJC_BRIDGING_HEADER = "nativeTemplate-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -947,7 +911,7 @@
 				SWIFT_OBJC_BRIDGING_HEADER = "nativeTemplate-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -1002,7 +966,7 @@
 				);
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = ReleaseDevApp;
@@ -1081,7 +1045,7 @@
 				SWIFT_INCLUDE_PATHS = "$(inherited) ${PROJECT_DIR} ${SRCROOT}/../node_modules/@mendix/native/ios";
 				SWIFT_OBJC_BRIDGING_HEADER = "nativeTemplate-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = ReleaseDevApp;
@@ -1134,7 +1098,7 @@
 				SWIFT_OBJC_BRIDGING_HEADER = "nativeTemplate-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = ReleaseDevApp;
 		};
@@ -1197,7 +1161,7 @@
 				);
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -1252,7 +1216,7 @@
 				);
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
